@@ -15,7 +15,7 @@ client.login('BOT KEY AUTH');
 	client.user.setActivity(".metria | .info | .membres", {
 		type: "PLAYING",
 		//type: "STREAMING",
-		url: "https://twitch.tv/tomathhhh"
+		url: "https://twitch.tv/XXXX"
 	  })
  });
 
